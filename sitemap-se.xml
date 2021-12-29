@@ -523,9 +523,6 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-marketo-with-intercom</loc>
    </url>
    <url>
-      <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-marketo-with-jira</loc>
-   </url>
-   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-marketo-with-insightly</loc>
    </url>
    <url>
@@ -1633,9 +1630,6 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-hubspot-with-intercom</loc>
    </url>
    <url>
-      <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-hubspot-with-jira</loc>
-   </url>
-   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-hubspot-with-insightly</loc>
    </url>
    <url>
@@ -2119,9 +2113,6 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-salesforce-with-insightly</loc>
    </url>
    <url>
-      <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-salesforce-with-jira</loc>
-   </url>
-   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-salesforce-with-keen-io</loc>
    </url>
    <url>
@@ -2563,13 +2554,7 @@
       <loc>https://se.exelement.co/our-team/fredrik-stokke</loc>
    </url>
    <url>
-      <loc>https://se.exelement.co/our-team/jonas-ander</loc>
-   </url>
-   <url>
       <loc>https://se.exelement.co/our-team/mathias-jonsson</loc>
-   </url>
-   <url>
-      <loc>https://se.exelement.co/our-team/ethan-kawkji</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/our-team/fritjof-andresen</loc>
@@ -2804,9 +2789,6 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-salesforce-pardot-with-unifonic</loc>
-   </url>
-   <url>
-      <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-salesforce-pardot-with-jira</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-salesforce-pardot-with-retention-science</loc>
@@ -3400,6 +3382,9 @@
       <loc>https://se.exelement.co/insights/focus-on-finance-6-ways-marketing-can-earn-customer-trust</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-hubspot-with-jira</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-hubspot</loc>
    </url>
    <url>
@@ -3686,6 +3671,9 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-pipedrive</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-marketo-with-jira</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-marketo</loc>
@@ -4498,9 +4486,6 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-freeagent</loc>
    </url>
    <url>
-      <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-jira</loc>
-   </url>
-   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-kanbanize-v2</loc>
    </url>
    <url>
@@ -4700,6 +4685,9 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-highrise</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-salesforce-pardot-with-jira</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-salesforce-pardot</loc>
@@ -5162,6 +5150,9 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-zaius</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-salesforce-with-jira</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-salesforce</loc>
@@ -5698,6 +5689,9 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-generic-file</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-jira</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-jotform</loc>
    </url>
    <url>
@@ -5813,6 +5807,18 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-franconnect</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/our-team/ethan-kawkji</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/our-team/jonas-ander</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/our-team/mikael-samuelsson</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/blog/automate-lead-routing-to-win-more-deals-lead-to-account-matching</loc>
    </url>
 
 </urlset>
