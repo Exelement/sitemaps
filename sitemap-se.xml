@@ -1030,13 +1030,7 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-hubspot-with-any-other-application</loc>
    </url>
    <url>
-      <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-hubspot-with-new-connector-request</loc>
-   </url>
-   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-salesforce-with-any-other-application</loc>
-   </url>
-   <url>
-      <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-salesforce-with-new-connector-request</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-hubspot-with-bamboohr</loc>
@@ -3196,9 +3190,6 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-salesforce-pardot-with-microsoft-sql-server-table</loc>
    </url>
    <url>
-      <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-salesforce-pardot-with-new-connector-request</loc>
-   </url>
-   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-salesforce-pardot-with-mri</loc>
    </url>
    <url>
@@ -3514,6 +3505,9 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-hubspot-with-wix</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-hubspot</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-surf-accounts</loc>
    </url>
    <url>
@@ -3521,6 +3515,9 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-surf-accounts</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-surf-accounts</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-emarsys</loc>
@@ -3532,6 +3529,9 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-emarsys</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-emarsys</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-service-titan</loc>
    </url>
    <url>
@@ -3539,6 +3539,9 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-service-titan</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-service-titan</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-peoplehr</loc>
@@ -3550,6 +3553,9 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-peoplehr</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-peoplehr</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-aircall</loc>
    </url>
    <url>
@@ -3557,6 +3563,9 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-aircall</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-aircall</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-amadeus-sandbox</loc>
@@ -3568,6 +3577,9 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-amadeus-sandbox</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-amadeus-sandbox</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-payjunction</loc>
    </url>
    <url>
@@ -3575,6 +3587,9 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-payjunction</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-payjunction</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-pike13</loc>
@@ -3586,6 +3601,9 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-pike13</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-pike13</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-zoho-recruit</loc>
    </url>
    <url>
@@ -3595,6 +3613,9 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-zoho-recruit</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-zoho-recruit</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-freshbooks</loc>
    </url>
    <url>
@@ -3602,6 +3623,9 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-freshbooks</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-freshbooks</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-stripe</loc>
@@ -3622,6 +3646,12 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-vht</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-stripe</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-vht</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-hurree</loc>
    </url>
    <url>
@@ -3629,6 +3659,9 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-hurree</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-hurree</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-foodtec-solutions</loc>
@@ -3649,6 +3682,9 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-twitter</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-twitter</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-function-point</loc>
    </url>
    <url>
@@ -3658,6 +3694,12 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-function-point</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-function-point</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-woocommerce</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-facebook-audiences</loc>
    </url>
    <url>
@@ -3665,6 +3707,9 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-facebook-audiences</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-facebook-audiences</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-google-calendar</loc>
@@ -3694,6 +3739,12 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-google-calendar-workspace</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-google-calendar</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-google-calendar-workspace</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-uplaunch</loc>
    </url>
    <url>
@@ -3701,6 +3752,9 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-uplaunch</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-uplaunch</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-maxemail-by-xtremepush</loc>
@@ -3712,6 +3766,12 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-maxemail-by-xtremepush</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-maxemail-by-xtremepush</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-myob-accountright</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-freshbooks-classic</loc>
    </url>
    <url>
@@ -3721,6 +3781,9 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-freshbooks-classic</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-freshbooks-classic</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-robly</loc>
    </url>
    <url>
@@ -3728,6 +3791,9 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-robly</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-robly</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-servicenow-table-api</loc>
@@ -3748,6 +3814,9 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-franpos</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-franpos</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-magento-2-webhooks</loc>
    </url>
    <url>
@@ -3766,6 +3835,12 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-magento-2</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-magento-2</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-magento-2-webhooks</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-officerd</loc>
    </url>
    <url>
@@ -3773,6 +3848,9 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-officerd</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-officerd</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-briostack</loc>
@@ -3784,6 +3862,9 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-briostack</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-briostack</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-thrve</loc>
    </url>
    <url>
@@ -3791,6 +3872,9 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-thrve</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-thrve</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-bullhorn</loc>
@@ -3802,6 +3886,9 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-bullhorn</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-bullhorn</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-pipedrive</loc>
    </url>
    <url>
@@ -3809,6 +3896,9 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-pipedrive</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-pipedrive</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-marketo-with-jira</loc>
@@ -3952,6 +4042,9 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-deltek-vision</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-deltek-vision</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-insightly</loc>
    </url>
    <url>
@@ -3961,6 +4054,12 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-insightly</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-insightly</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-microsoft-sql-server-table</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-quickbooks</loc>
    </url>
    <url>
@@ -3968,6 +4067,9 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-quickbooks</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-quickbooks</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-twilio-chat</loc>
@@ -3986,6 +4088,12 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-twilio-voice</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-twilio-chat</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-twilio-voice</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-act</loc>
@@ -4376,9 +4484,6 @@
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-microsoft-sql-server-table</loc>
-   </url>
-   <url>
-      <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-new-connector-request</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-mri</loc>
@@ -4801,10 +4906,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-sugarcrm-with-wix</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-sugarcrm</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-force24-v2</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-force24-v2</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-force24-v2</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-insellerate</loc>
@@ -4819,10 +4930,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-ometria</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-ometria</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-truelayer</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-truelayer</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-truelayer</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-trello</loc>
@@ -4831,10 +4948,19 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-trello</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-trello</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-oracle-sales-cloud</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-oracle-sales-cloud</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-oracle-sales-cloud</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-lever</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-rock-gym-pro</loc>
@@ -4843,10 +4969,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-rock-gym-pro</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-rock-gym-pro</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-elasticsearch</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-elasticsearch</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-elasticsearch</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-capsule</loc>
@@ -4996,10 +5128,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-woocommerce</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-profitwell</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-excel</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-excel</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-excel</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-lightspeed-retail</loc>
@@ -5008,10 +5146,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-lightspeed-retail</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-lightspeed-retail</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-bamboohr</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-bamboohr</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-bamboohr</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-trustpilot</loc>
@@ -5020,10 +5164,19 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-trustpilot</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-trustpilot</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-redeye-contour</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-campaign-monitor</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-campaign-monitor</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-campaign-monitor</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-listrak</loc>
@@ -5032,10 +5185,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-listrak</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-listrak</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-squareup</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-squareup</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-squareup</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-cumulio</loc>
@@ -5044,10 +5203,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-cumulio</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-cumulio</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-sendible</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-sendible</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-sendible</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-amazon-s3</loc>
@@ -5056,10 +5221,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-amazon-s3</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-amazon-s3</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-highrise</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-highrise</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-highrise</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-salesforce-pardot-with-jira</loc>
@@ -5191,10 +5362,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-salesforce-pardot-with-wix</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-salesforce-pardot</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-microsoft-office-365</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-microsoft-office-365</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-microsoft-office-365</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-shipstation</loc>
@@ -5203,10 +5380,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-shipstation</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-shipstation</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-booker</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-booker</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-booker</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-prosperworks</loc>
@@ -5215,16 +5398,25 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-prosperworks</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-prosperworks</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-ruler</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-ruler</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-ruler</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-ibm-watson-marketing</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-ibm-watson-marketing</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-ibm-watson-marketing</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-sage-50</loc>
@@ -5242,10 +5434,19 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-sage-accounting</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-sage-accounting</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-sage-50</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-dotdigital</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-dotdigital</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-dotdigital</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-brandbot</loc>
@@ -5254,22 +5455,25 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-brandbot</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-brandbot</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-voyage</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-voyage</loc>
    </url>
    <url>
-      <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-any-other-application</loc>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-voyage</loc>
    </url>
    <url>
-      <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-new-connector-request</loc>
+      <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-any-other-application</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-any-other-application</loc>
    </url>
    <url>
-      <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-new-connector-request</loc>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-any-other-application</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-generic-webhook</loc>
@@ -5284,10 +5488,19 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-generic-form</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-generic-form</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-generic-webhook</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-cloud4wi</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-cloud4wi</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-cloud4wi</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-manychat</loc>
@@ -5296,10 +5509,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-manychat</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-manychat</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-contact-form-7-plugin</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-contact-form-7-plugin</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-contact-form-7-plugin</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-ftp</loc>
@@ -5308,10 +5527,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-ftp</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-ftp</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-sentori</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-sentori</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-sentori</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-freshdesk</loc>
@@ -5329,10 +5554,19 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-freshdesk-messaging</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-freshdesk</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-freshdesk-messaging</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-gmail</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-gmail</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-gmail</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-wattsense</loc>
@@ -5341,10 +5575,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-wattsense</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-wattsense</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-findemails</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-findemails</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-findemails</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-heartland</loc>
@@ -5353,10 +5593,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-heartland</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-heartland</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-salesnexus</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-salesnexus</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-salesnexus</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-google-drive</loc>
@@ -5365,10 +5611,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-google-drive</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-google-drive</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-counterpoint</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-counterpoint</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-counterpoint</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-zendesk</loc>
@@ -5377,10 +5629,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-zendesk</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-zendesk</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-oracle-netsuite-restlet</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-oracle-netsuite-restlet</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-oracle-netsuite-restlet</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-twilio-sms</loc>
@@ -5395,10 +5653,19 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-twilio-taskrouter</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-twilio-sms</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-twilio-taskrouter</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-oracle-responsys</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-oracle-responsys</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-oracle-responsys</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-scrumdo</loc>
@@ -5407,10 +5674,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-scrumdo</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-scrumdo</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-zenoti</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-zenoti</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-zenoti</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-gocardless</loc>
@@ -5425,10 +5698,19 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-gocardless-sandbox</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-gocardless</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-gocardless-sandbox</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-ringcentral</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-ringcentral</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-ringcentral</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-appx</loc>
@@ -5437,10 +5719,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-appx</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-appx</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-drift</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-drift</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-total-expert</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-salesforce-marketing-cloud</loc>
@@ -5455,10 +5743,19 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-salesforce-marketing-cloud-legacy</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-salesforce-marketing-cloud</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-salesforce-marketing-cloud-legacy</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-less-annoying-crm</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-less-annoying-crm</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-less-annoying-crm</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-google-pagespeed</loc>
@@ -5467,10 +5764,22 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-google-pagespeed</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-google-pagespeed</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-xero-private-instance</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-xero</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-basecamp</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-basecamp</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-basecamp</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-mailup</loc>
@@ -5479,10 +5788,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-mailup</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-mailup</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-webinarjam</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-webinarjam</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-webinarjam</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-tan-link</loc>
@@ -5491,10 +5806,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-tan-link</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-tan-link</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-streak</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-streak</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-streak</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-wealthbox</loc>
@@ -5503,10 +5824,19 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-wealthbox</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-wealthbox</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-jira</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-usercom</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-usercom</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-usercom</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-zoho-crm</loc>
@@ -5515,10 +5845,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-zoho-crm</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-zoho-crm</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-typeform</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-typeform</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-typeform</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-datafy</loc>
@@ -5527,10 +5863,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-datafy</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-datafy</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-petexec</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-petexec</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-petexec</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-chargify</loc>
@@ -5539,16 +5881,25 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-chargify</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-chargify</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-caspio</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-caspio</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-caspio</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-google-sheets</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-google-sheets</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-google-sheets</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-postgresql-table</loc>
@@ -5575,10 +5926,22 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-facebook-marketing-api</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-facebook-offline-conversions</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-facebook-marketing-api</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-facebook-insights</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-constant-contact</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-constant-contact</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-constant-contact</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-drip</loc>
@@ -5587,10 +5950,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-drip</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-drip</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-peakon</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-peakon</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-peakon</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-aesthetic-record</loc>
@@ -5599,10 +5968,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-aesthetic-record</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-aesthetic-record</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-bronto</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-bronto</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-bronto</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-fountainhr</loc>
@@ -5611,10 +5986,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-fountainhr</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-fountainhr</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-selligent</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-selligent</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-selligent</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-springboard</loc>
@@ -5623,10 +6004,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-springboard</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-springboard</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-salesloft</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-salesloft</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-salesloft</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-sendinblue</loc>
@@ -5635,10 +6022,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-sendinblue</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-sendinblue</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-podio</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-podio</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-podio</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-briteverify</loc>
@@ -5647,10 +6040,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-briteverify</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-briteverify</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-microsoft-azure-devops</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-microsoft-azure-devops</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-microsoft-azure-devops</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-bugherd</loc>
@@ -5659,10 +6058,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-bugherd</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-bugherd</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-zaius</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-zaius</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-zaius</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-salesforce-with-jira</loc>
@@ -5800,10 +6205,19 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-salesforce-with-wix</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-salesforce-sandbox</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-salesforce</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-isalescrm</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-isalescrm</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-isalescrm</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-microsoft-dynamics-crm-custom-object</loc>
@@ -5818,10 +6232,25 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-microsoft-dynamics-crm</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-microsoft-dynamics-crm-oauth20-authorization-code</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-microsoft-dynamics-crm-on-premises</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-microsoft-dynamics-crm</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-microsoft-dynamics-crm-custom-object</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-tide</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-tide</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-tide</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-suitecrm</loc>
@@ -5830,16 +6259,28 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-suitecrm</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-suitecrm</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-vincere</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-provet-cloud</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-provet-cloud</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-provet-cloud</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-activecampaign</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-activecampaign</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-activecampaign</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-intercom</loc>
@@ -5854,10 +6295,22 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-intercom-v10-deprecated</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-intercom</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-intercom-v10-deprecated</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-pure360</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-pure360</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-pure360-rest</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-pure360</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-mapp</loc>
@@ -5866,10 +6319,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-mapp</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-mapp</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-crunch</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-crunch</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-crunch</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-getresponse</loc>
@@ -5878,10 +6337,19 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-getresponse</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-getresponse</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-freeagent</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-bookingbug</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-bookingbug</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-bookingbug</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-toofr</loc>
@@ -5890,10 +6358,19 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-toofr</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-toofr</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-answerbase</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-answerbase</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-answerbase</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-capsule</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-salesfusion</loc>
@@ -5902,10 +6379,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-salesfusion</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-salesfusion</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-box</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-box</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-box</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-live-well-exercise-clinic</loc>
@@ -5914,10 +6397,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-live-well-exercise-clinic</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-live-well-exercise-clinic</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-surefirecrm</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-surefirecrm</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-surefirecrm</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-personiohr</loc>
@@ -5926,10 +6415,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-personiohr</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-personiohr</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-gist</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-gist</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-gist</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-mindbody</loc>
@@ -5938,10 +6433,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-mindbody</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-mindbody</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-club-ready</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-club-ready</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-club-ready</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-google-groups</loc>
@@ -5950,10 +6451,22 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-google-groups</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-google-groups</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-mailchimp</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-mailchimp</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-mailchimp</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-mri</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-copper</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-heavenhr</loc>
@@ -5962,10 +6475,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-heavenhr</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-heavenhr</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-gym-sales</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-gym-sales</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-gym-sales</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-document360</loc>
@@ -5974,16 +6493,25 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-document360</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-document360</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-google-search-console</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-google-search-console</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-google-search-console</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-oracle-eloqua</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-oracle-eloqua</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-oracle-eloqua</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-magento</loc>
@@ -5998,10 +6526,19 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-magento-extension</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-magento</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-magento-extension</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-keen-io</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-keen-io</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-keen-io</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-maximizer-crm</loc>
@@ -6010,10 +6547,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-maximizer-crm</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-maximizer-crm</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-unbabel</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-unbabel</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-unbabel</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-bluecore</loc>
@@ -6022,10 +6565,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-bluecore</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-bluecore</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-sailthru</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-sailthru</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-sailthru</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-envision-salon-spa</loc>
@@ -6034,10 +6583,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-envision-salon-spa</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-envision-salon-spa</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-readableio</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-readableio</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-readableio</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-shireburn</loc>
@@ -6046,10 +6601,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-shireburn</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-shireburn</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-creditsafe</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-creditsafe</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-creditsafe</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-github</loc>
@@ -6058,10 +6619,19 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-github</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-github</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-kanbanize</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-kanbanize</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-kanbanize-v2</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-kanbanize</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-sendgrid</loc>
@@ -6070,10 +6640,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-sendgrid</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-sendgrid</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-bntouch-mortgage-crm</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-bntouch-mortgage-crm</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-bntouch-mortgage-crm</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-leadmailbox</loc>
@@ -6082,10 +6658,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-leadmailbox</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-leadmailbox</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-inline-crm</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-inline-crm</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-inline-crm</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-superphone</loc>
@@ -6094,10 +6676,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-superphone</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-superphone</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-shopify</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-shopify</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-shopify</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-exact</loc>
@@ -6106,10 +6694,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-exact</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-exact</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-yieldify</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-yieldify</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-yieldify</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-zoom</loc>
@@ -6118,10 +6712,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-zoom</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-zoom</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-lead-squared</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-lead-squared</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-lead-squared</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-klaviyo</loc>
@@ -6130,10 +6730,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-klaviyo</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-klaviyo</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-cap-hpi</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-cap-hpi</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-cap-hpi</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-adp</loc>
@@ -6142,10 +6748,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-adp</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-adp</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-radius-campus-management</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-radius-campus-management</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-radius-campus-management</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-prodpad</loc>
@@ -6154,10 +6766,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-prodpad</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-prodpad</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-retention-science</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-retention-science</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-retention-science</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-slack</loc>
@@ -6166,10 +6784,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-slack</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-eventbrite</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-deltek-workbook</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-deltek-workbook</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-deltek-workbook</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-whoknows</loc>
@@ -6178,10 +6802,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-whoknows</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-whoknows</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-benchmark-email</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-benchmark-email</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-benchmark-email</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-gravity-forms-plugin</loc>
@@ -6196,10 +6826,19 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-gravity-forms</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-gravity-forms</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-gravity-forms-plugin</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-chargebee</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-chargebee</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-chargebee</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-cendyn</loc>
@@ -6208,10 +6847,19 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-cendyn</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-cendyn</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-sage-crm</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-salespad</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-salespad</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-salespad</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-infusionsoft</loc>
@@ -6226,10 +6874,22 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-infusionsoft-by-keap</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-infusionsoft-by-keap</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-infusionsoft</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-surveymonkey</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-pipedrive-marketplace-app</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-pipedrive-marketplace-app</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-pipedrive-marketplace-app</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-converge</loc>
@@ -6238,10 +6898,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-converge</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-converge</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-club-os</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-club-os</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-club-os</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-mandrill</loc>
@@ -6250,10 +6916,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-mandrill</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-mandrill</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-purple</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-purple</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-purple</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/blog/bulletproof-your-return-on-marketing-investment-reporting-in-salesforce</loc>
@@ -6265,16 +6937,25 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-openapply</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-openapply</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-callpro</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-callpro</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-callpro</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-harmony-psa</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-harmony-psa</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-harmony-psa</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-act</loc>
@@ -6475,13 +7156,28 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-freshworks-crm-with-wix</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-freshworks-crm</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-calendly</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-calendly</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-smartsheet</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-saasu</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-saasu</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-twilio-sync</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-twilio-sync</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-clover-sandbox</loc>
@@ -6490,28 +7186,58 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-clover</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-clover</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-clover-sandbox</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-mysql</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-mysql</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-formstack</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-formstack</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-unifonic</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-unifonic</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-rss-reader</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-rss-reader</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-jotform</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-jotform</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-bob-hr</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-bob-hr</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-canddi</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-canddi</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-adobe-campaign</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-adobe-campaign</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-generic-file</loc>
@@ -6520,7 +7246,16 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-product-data-feeds</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-generic-file</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-product-data-feeds</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-swivle</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-swivle</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-fullcontact</loc>
@@ -6529,31 +7264,70 @@
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-fullcontact-contacts-api</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-fullcontact</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-fullcontact-contacts-api</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-breathe-hr</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-breathe-hr</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-shuttle</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-shuttle</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-fastspring</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-fastspring</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-wordpress</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-okta</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-docusign</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-docusign</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-act</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-act</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-administrate</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-administrate</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-papershift</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-papershift</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-mongodb</loc>
    </url>
    <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-mongodb</loc>
+   </url>
+   <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-prospectio</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-prospectio</loc>
    </url>
    <url>
       <loc>https://se.exelement.co/synccloud-managed-ipaas/integrate-visma-with-franconnect</loc>
@@ -6677,6 +7451,120 @@
    </url>
    <url>
       <loc>https://se.exelement.co/blog/automate-lead-routing-to-win-more-deals-lead-to-account-matching</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-airship</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-airtable</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-amazon-ec2</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-aws-backup</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-asana</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-autotask</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-autoreach</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-cardpointe</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-cheetah</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-clicksend-sms</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-datadog</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-facebook-messenger</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-filestage</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-google-contacts</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-imonggo</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-instantco</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-iterable</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-microsoft-education</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-leadoo</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-mondaycom</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-neto</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-opencrm</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-opsuite</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-optimizely</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-pingone</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-rybbon</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-sabre</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-sap-successfactors-sandbox</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-servicemonster</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-service-fusion</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-serviceminderio</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-sprout-send</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-squarespace</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-summitai</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-willo</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-wix</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-marketo</loc>
+   </url>
+   <url>
+      <loc>https://se.exelement.co/synccloud-webhooks/google-ads-lead-form-extension-webhook-for-slack</loc>
    </url>
 
 </urlset>
