@@ -1,4 +1,5 @@
-<url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
       <loc>https://synccloud.exelement.co/readableio/integrate-readableio-with-airtable</loc>
    </url><url>
       <loc>https://synccloud.exelement.co/readableio/integrate-readableio-with-adpage</loc>
@@ -74117,3 +74118,4 @@
    </url><url>
       <loc>https://synccloud.exelement.co/any-application/integrate-any-application-with-zoom</loc>
    </url>
+</urlset>
